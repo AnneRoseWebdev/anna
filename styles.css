@@ -1,0 +1,48 @@
+body {
+    background-image: url('https://st2.depositphotos.com/3651191/50798/i/450/depositphotos_507989186-stock-photo-colorful-summer-view-fusine-lake.jpg');
+    margin: 15px;
+    padding: 15px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    background-color: transparent;
+
+}
+
+h1 {
+    font-size:3.5em;
+    
+}
+
+h2 {
+    font-size: 1.5em;
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+.language-buttons {
+    margin-top: 10%;
+}
+
+.language-buttons a {
+    display: inline-block;
+    margin: 0 40px;
+    padding: 30px 30px;
+    border-radius: 35px; 
+    background-color: blue; 
+    color: whitesmoke; 
+    text-decoration: none;
+    font-size: 1.2em ;
+}
